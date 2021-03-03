@@ -1,0 +1,10 @@
+C:\Users\Samet\source\repos\CelsiusToAll\CelsiusToAll\bin\Debug\CelsiusToAll.exe.config
+C:\Users\Samet\source\repos\CelsiusToAll\CelsiusToAll\bin\Debug\CelsiusToAll.exe
+C:\Users\Samet\source\repos\CelsiusToAll\CelsiusToAll\bin\Debug\CelsiusToAll.pdb
+C:\Users\Samet\source\repos\CelsiusToAll\CelsiusToAll\obj\Debug\CelsiusToAll.csprojAssemblyReference.cache
+C:\Users\Samet\source\repos\CelsiusToAll\CelsiusToAll\obj\Debug\CelsiusToAll.CelsiusToAll.resources
+C:\Users\Samet\source\repos\CelsiusToAll\CelsiusToAll\obj\Debug\CelsiusToAll.Properties.Resources.resources
+C:\Users\Samet\source\repos\CelsiusToAll\CelsiusToAll\obj\Debug\CelsiusToAll.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\CelsiusToAll\CelsiusToAll\obj\Debug\CelsiusToAll.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\CelsiusToAll\CelsiusToAll\obj\Debug\CelsiusToAll.exe
+C:\Users\Samet\source\repos\CelsiusToAll\CelsiusToAll\obj\Debug\CelsiusToAll.pdb
